@@ -8,18 +8,24 @@ Extending [Hypothes.is](http://hypothes.is) to connect students with lessons.
 
 Building modular add-ons, presenting a layer of instructional content atop the web. (See mock-up, below)
 
-![mashup](https://mentorsonline.net/images/Hypo-Mock-mashup.png) { width="600" height="450" }
+![mashup](https://mentorsonline.net/images/pMockup-Canvas.png) { width="600" height="450" }
 
 ## Getting Started
 
+The image above depicts 
+* Author's avatar in top-left corner of annotation widget (Highlight could indicate presence0
+* A lesson module (Instructure's comm widget mashed up here)
+* A group chat tile (posted by guy with green head avatar)
+
 ### Dependencies
 
-* None
+* Contributions by teachers
+* Contributions by better coders than this cowpoke
 
-*Note: GitHub Project n00b at the helm. All tips and suggestions welcome.
+*Note: GitHub Project n00b at the helm. All tips and suggestions welcome (i.e., License type, etc.)
 
 ## Authors
 
 Contributors names and contact info
  
-John Wallace [@Twitter](https://twitter.com/PollOccupier) and [Wordpress](http://azwaldo.wordpress.com)
+John Wallace *azwaldo* at gmail.com, posting [@Twitter](https://twitter.com/PollOccupier) and [Wordpress](http://azwaldo.wordpress.com)
