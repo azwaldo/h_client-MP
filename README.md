@@ -8,7 +8,7 @@ Extending [Hypothes.is](http://hypothes.is) to connect students with lessons.
 
 Building modular add-ons, presenting a layer of instructional content atop the web. (See mock-up, below)
 
-![mashup](https://mentorsonline.net/images/Hypo-Mock-mashup.png) { width="800" height="600" }
+![mashup](https://mentorsonline.net/images/Hypo-Mock-mashup.png) { width="600" height="450" }
 
 ## Getting Started
 
