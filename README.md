@@ -2,7 +2,7 @@
 
 # hypo-mod
 
-Extending [Hypothes.is](http://hypothes.is) to connect students with lessons.
+Extending [Hypothes.is](http://hypothes.is) to connect students with lessons, teachers, and each other.
 
 ## Description
 
