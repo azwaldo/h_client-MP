@@ -2,11 +2,11 @@
 
 # hypo-mod
 
-Extending [Hypothes.is](http://hypothes.is) to connect students with lessons, teachers, and each other.
+Extending the [Hypothes.is](http://hypothes.is) annotation tool to connect students with lessons, teachers, and each other.
 
 ## Description
 
-Building modular add-ons, presenting a layer of instructional content atop the web. (See mock-up, below)
+Adding a layer of educational content atop the web, by importing lessons and adding messaging and presence, within the Hypothes.is browser extension. (See mockup, below)
 
 ![mashup](https://mentorsonline.net/images/pMockup-Canvas.png)
 
@@ -28,4 +28,4 @@ The image above depicts
 
 Contributors names and contact info
  
-John Wallace *azwaldo* at gmail.com, posting [@Twitter](https://twitter.com/PollOccupier) and [Wordpress](http://azwaldo.wordpress.com)
+John Wallace (*azwaldo* at gmail.com, posting [@Twitter](https://twitter.com/PollOccupier) and [Wordpress](http://azwaldo.wordpress.com))
