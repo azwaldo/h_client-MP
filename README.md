@@ -2,7 +2,9 @@
 
 # h_client-MP
 
-Extending the [Hypothes.is](http://hypothes.is) annotation tool to connect students with lessons, teachers, and each other.
+Extending the [Hypothes.is](http://hypothes.is) annotation tool.
+Connecting students and teachers with lessons and each other, right ther in the browser. 
+(More X and P, please...see  XMPP.org)
 
 ## Description
 
