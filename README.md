@@ -1,6 +1,6 @@
 **Post README.txt**
 
-# hypo-mod
+# h_client-MP
 
 Extending the [Hypothes.is](http://hypothes.is) annotation tool to connect students with lessons, teachers, and each other.
 
